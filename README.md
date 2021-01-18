@@ -8,14 +8,13 @@ ml_btc_graph.py
 
 データ収集から学習の経緯：  
 Figure1.png  
-![Figure1.png]( "Figure1.png")
+![Figure1.png](https://github.com/whitecat-22/ml_btc_graph/blob/main/Figure_1.png "Figure1.png")
 ↓  
 Figure2.png  
-![Figure2.png]( "Figure2.png")
+![Figure2.png](https://github.com/whitecat-22/ml_btc_graph/blob/main/Figure_2.png "Figure2.png")
 ↓  
 Figure3.png  
-![Figure3.png]( "Figure3.png")
+![Figure3.png](https://github.com/whitecat-22/ml_btc_graph/blob/main/Figure_3.png "Figure3.png")
 ↓  
 Figure4.png  
-![Figure4.png]( "Figure4.png")
-
+![Figure4.png](https://github.com/whitecat-22/ml_btc_graph/blob/main/Figure_4.png "Figure4.png")
